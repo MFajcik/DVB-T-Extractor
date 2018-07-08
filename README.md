@@ -17,7 +17,7 @@ Program retrieves an input file (`file_name.ts`) that contains the transport dat
 - If the program contains multiple video / audio tracks or service information, bitrate of all these channels is read into a common value.
 - Transfer speed is rounded to 2 decimal places.  
 
-#### Output Example for provided example.ts:
+#### Output example for provided `example.ts` file:
 ```
 Network name: SIT 1 CESKA TELEVIZE
 Network ID: 12560
